@@ -1,0 +1,511 @@
+('IMMI', '1.0') #SUP: 831209
+('ANARR', 'Z') ('IMMI', '1.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') #SUP: 751396
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') #SUP: 751396
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 751396
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 751396
+('IMMI', '1.0') ('TACT', '24.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 738374
+('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 738374
+('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 753201
+('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 738374
+('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('TACT', '24.0') #SUP: 753201
+('IMMI', '1.0') ('SFM', '61.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 738374
+('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 738374
+('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('SFM', '61.0') #SUP: 753201
+('IMMI', '1.0') ('INPER', '3.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 753201
+('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 753201
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 753201
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 753201
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 753201
+('ANARR', 'Z') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 738374
+('IMMI', '1.0') ('INFAM', 'nan') #SUP: 766223
+('DEROU', 'Z') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 766223
+('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 766223
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') ('INFAM', 'nan') #SUP: 766223
+('EMPL', '21') ('IMMI', '1.0') #SUP: 831209
+('DEROU', 'Z') ('EMPL', '21') ('IMMI', '1.0') #SUP: 831209
+('DEROU', 'Z') ('IMMI', '1.0') #SUP: 831209
+('ILTUU', '4') #SUP: 931838
+('ANARR', 'Z') ('ILTUU', '4') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') #SUP: 806444
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') #SUP: 806444
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 806444
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 806444
+('ILTUU', '4') ('TACT', '24.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 792093
+('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 792093
+('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('SFM', '61.0') ('TACT', '24.0') #SUP: 810862
+('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 792093
+('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('TACT', '24.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('TACT', '24.0') #SUP: 810862
+('ILTUU', '4') ('SFM', '61.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 792093
+('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 792093
+('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('SFM', '61.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('SFM', '61.0') #SUP: 810862
+('ILTUU', '4') ('INPER', '3.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') #SUP: 810862
+('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 810862
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 810862
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 810862
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 810862
+('ANARR', 'Z') ('ILTUU', '4') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 792093
+('ILTUU', '4') ('INFAM', 'nan') #SUP: 825213
+('DEROU', 'Z') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 825213
+('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 825213
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') ('INFAM', 'nan') #SUP: 825213
+('EMPL', '21') ('ILTUU', '4') #SUP: 931838
+('DEROU', 'Z') ('EMPL', '21') ('ILTUU', '4') #SUP: 931838
+('DEROU', 'Z') ('ILTUU', '4') #SUP: 931838
+('INPER', '8.0') #SUP: 959347
+('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 823076
+('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '8.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 840344
+('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('TACT', '24.0') #SUP: 823076
+('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('EMPL', '21') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '8.0') ('TACT', '24.0') #SUP: 840344
+('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') ('SFM', '61.0') #SUP: 823076
+('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '8.0') ('SFM', '61.0') #SUP: 840344
+('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 840344
+('ANARR', 'Z') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('INPER', '8.0') #SUP: 823076
+('ANARR', 'Z') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 844059
+('INFAM', 'nan') ('INPER', '8.0') #SUP: 861327
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 861327
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 861327
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '8.0') #SUP: 861327
+('EMPL', '21') ('INPER', '8.0') #SUP: 959347
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '8.0') #SUP: 959347
+('DEROU', 'Z') ('INPER', '8.0') #SUP: 959347
+('TACT', '24.0') #SUP: 1069236
+('ANARR', 'Z') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1046029
+('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('ANARR', 'Z') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('ANARR', 'Z') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1046029
+('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('SFM', '61.0') ('TACT', '24.0') #SUP: 1069236
+('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1069236
+('ANARR', 'Z') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('TACT', '24.0') #SUP: 1046029
+('INFAM', 'nan') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('TACT', '24.0') #SUP: 1069236
+('EMPL', '21') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('TACT', '24.0') #SUP: 1069236
+('DEROU', 'Z') ('TACT', '24.0') #SUP: 1069236
+('SFM', '61.0') #SUP: 1069236
+('ANARR', 'Z') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1046029
+('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1069236
+('ANARR', 'Z') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') ('SFM', '61.0') #SUP: 1046029
+('INFAM', 'nan') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('SFM', '61.0') #SUP: 1069236
+('EMPL', '21') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('SFM', '61.0') #SUP: 1069236
+('DEROU', 'Z') ('SFM', '61.0') #SUP: 1069236
+('INPER', '3.0') #SUP: 1069236
+('DEROU', 'Z') ('INPER', '3.0') #SUP: 1069236
+('EMPL', '21') ('INPER', '3.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') #SUP: 1069236
+('INFAM', 'nan') ('INPER', '3.0') #SUP: 1069236
+('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1069236
+('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1069236
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1069236
+('ANARR', 'Z') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') ('INPER', '3.0') #SUP: 1046029
+('ANARR', 'Z') #SUP: 1070145
+('ANARR', 'Z') ('DEROU', 'Z') #SUP: 1070145
+('ANARR', 'Z') ('EMPL', '21') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') #SUP: 1070144
+('ANARR', 'Z') ('INFAM', 'nan') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', 'nan') #SUP: 1070144
+('ANARR', 'Z') ('EMPL', '21') ('INFAM', 'nan') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') #SUP: 1070144
+('INFAM', 'nan') #SUP: 1093351
+('DEROU', 'Z') ('INFAM', 'nan') #SUP: 1093351
+('EMPL', '21') ('INFAM', 'nan') #SUP: 1093351
+('DEROU', 'Z') ('EMPL', '21') ('INFAM', 'nan') #SUP: 1093351
+('EMPL', '21') #SUP: 1218440
+('DEROU', 'Z') ('EMPL', '21') #SUP: 1218440
+('DEROU', 'Z') #SUP: 1218441

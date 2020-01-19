@@ -1,0 +1,1429 @@
+('TACT', '11.0') #SUP: 489760
+('DEROU', 'Z') ('TACT', '11.0') #SUP: 489760
+('RECH', 'Z') ('TACT', '11.0') #SUP: 489760
+('DEROU', 'Z') ('RECH', 'Z') ('TACT', '11.0') #SUP: 489760
+('VOIT', '1.0') #SUP: 506264
+('DEROU', 'Z') ('VOIT', '1.0') #SUP: 506264
+('TYPL', '2.0') #SUP: 540606
+('DEROU', 'Z') ('TYPL', '2.0') #SUP: 540606
+('TYPL', '1.0') #SUP: 668987
+('ETUD', '2.0') ('TYPL', '1.0') #SUP: 521510
+('DEROU', 'Z') ('ETUD', '2.0') ('TYPL', '1.0') #SUP: 521510
+('GARL', '1.0') ('TYPL', '1.0') #SUP: 562957
+('GARL', '1.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 500663
+('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 500663
+('GARL', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('DEROU', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('GARL', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 519349
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 519349
+('GARL', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 521396
+('GARL', '1.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 521396
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 521396
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 521396
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 512161
+('GARL', '1.0') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 528584
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 528584
+('DEROU', 'Z') ('GARL', '1.0') ('TYPL', '1.0') #SUP: 562957
+('INFAM', '1.0') ('TYPL', '1.0') #SUP: 588379
+('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('DEROU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 542928
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 542928
+('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 535212
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 544489
+('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 544489
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 544489
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 544489
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 535212
+('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 535212
+('IMMI', '2.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 552205
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 552205
+('DEROU', 'Z') ('INFAM', '1.0') ('TYPL', '1.0') #SUP: 588379
+('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('DEROU', 'Z') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('DEROU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('DEROU', 'Z') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('DEROU', 'Z') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 616434
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 616434
+('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 607803
+('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('NATC', '0.0') ('TYPL', '1.0') #SUP: 618595
+('INAT', '11.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 618595
+('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 618595
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 618595
+('ANARR', 'Z') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TYPL', '1.0') #SUP: 607803
+('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') ('TYPL', '1.0') #SUP: 607803
+('IMMI', '2.0') ('TYPL', '1.0') #SUP: 627226
+('DEROU', 'Z') ('IMMI', '2.0') ('TYPL', '1.0') #SUP: 627226
+('DEROU', 'Z') ('TYPL', '1.0') #SUP: 668987
+('RECH', 'Z') #SUP: 692158
+('GARL', '1.0') ('RECH', 'Z') #SUP: 491043
+('DEROU', 'Z') ('GARL', '1.0') ('RECH', 'Z') #SUP: 491043
+('ETUD', '2.0') ('RECH', 'Z') #SUP: 513879
+('DEROU', 'Z') ('ETUD', '2.0') ('RECH', 'Z') #SUP: 513879
+('INFAM', '1.0') ('RECH', 'Z') #SUP: 586739
+('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 517746
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 526819
+('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 526819
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 526819
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 526819
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 517746
+('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 517746
+('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('DEROU', 'Z') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('ANARR', 'Z') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 532555
+('ANARR', 'Z') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 532555
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 532555
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 532555
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 532555
+('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 541628
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 541628
+('DEROU', 'Z') ('INFAM', '1.0') ('RECH', 'Z') #SUP: 586739
+('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 610340
+('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('NATC', '0.0') ('RECH', 'Z') #SUP: 621360
+('INAT', '11.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('INAT', '11.0') ('RECH', 'Z') #SUP: 621360
+('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') #SUP: 621360
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') #SUP: 621360
+('ANARR', 'Z') ('INAT', '11.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') #SUP: 610340
+('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 610340
+('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('DEROU', 'Z') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('IMMI', '2.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('DEROU', 'Z') ('IMMI', '2.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('ANARR', 'Z') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('ANARR', 'Z') ('DEROU', 'Z') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('ANARR', 'Z') ('IMMI', '2.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('RECH', 'Z') ('PNAI12', '1.0') #SUP: 626738
+('ANARR', 'Z') ('RECH', 'Z') #SUP: 626738
+('ANARR', 'Z') ('DEROU', 'Z') ('RECH', 'Z') #SUP: 626738
+('ANARR', 'Z') ('IMMI', '2.0') ('RECH', 'Z') #SUP: 626738
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('RECH', 'Z') #SUP: 626738
+('IMMI', '2.0') ('RECH', 'Z') #SUP: 637758
+('DEROU', 'Z') ('IMMI', '2.0') ('RECH', 'Z') #SUP: 637758
+('DEROU', 'Z') ('RECH', 'Z') #SUP: 692158
+('TRANS', 'Z') #SUP: 728680
+('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 728680
+('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 728680
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 728680
+('DEROU', 'Z') ('ILTUU', 'Z') ('TRANS', 'Z') #SUP: 728680
+('EMPL', 'ZZ') ('TRANS', 'Z') #SUP: 728680
+('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('EMPL', 'ZZ') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 495401
+('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 499790
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('TRANS', 'Z') #SUP: 569977
+('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 636248
+('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('TRANS', 'Z') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('TRANS', 'Z') #SUP: 728680
+('DEROU', 'Z') ('TRANS', 'Z') #SUP: 728680
+('ILTUU', 'Z') #SUP: 728680
+('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 569977
+('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 569977
+('ILTUU', 'Z') ('NATC', '0.0') #SUP: 634089
+('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 634089
+('ILTUU', 'Z') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 634089
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') #SUP: 636248
+('ANARR', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 636248
+('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 651389
+('DEROU', 'Z') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 651389
+('EMPL', 'ZZ') ('ILTUU', 'Z') #SUP: 728680
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 569977
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INFAM', '1.0') #SUP: 569977
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 634089
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 636248
+('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') ('IMMI', '2.0') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('ILTUU', 'Z') #SUP: 728680
+('DEROU', 'Z') ('ILTUU', 'Z') #SUP: 728680
+('EMPL', 'ZZ') #SUP: 728680
+('EMPL', 'ZZ') ('INFAM', '1.0') #SUP: 569977
+('EMPL', 'ZZ') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 495401
+('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 495401
+('EMPL', 'ZZ') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 499790
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 510801
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INFAM', '1.0') #SUP: 569977
+('EMPL', 'ZZ') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('NATC', '0.0') #SUP: 634089
+('EMPL', 'ZZ') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') #SUP: 634089
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 634089
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 618948
+('EMPL', 'ZZ') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 618948
+('EMPL', 'ZZ') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('PNAI12', '1.0') #SUP: 636248
+('EMPL', 'ZZ') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') #SUP: 636248
+('ANARR', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') #SUP: 636248
+('ANARR', 'Z') ('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') #SUP: 636248
+('EMPL', 'ZZ') ('IMMI', '2.0') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') ('IMMI', '2.0') #SUP: 651389
+('DEROU', 'Z') ('EMPL', 'ZZ') #SUP: 728680
+('GARL', '1.0') #SUP: 831209
+('ETUD', '2.0') ('GARL', '1.0') #SUP: 648424
+('ETUD', '2.0') ('GARL', '1.0') ('INFAM', '1.0') #SUP: 524804
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INFAM', '1.0') #SUP: 524804
+('ETUD', '2.0') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 578360
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 578360
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 578360
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 578360
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 578360
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 578360
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 578360
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 578360
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') #SUP: 578360
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') #SUP: 578360
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 578360
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 578360
+('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') #SUP: 581850
+('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 581850
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 581850
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('NATC', '0.0') #SUP: 581850
+('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') #SUP: 581850
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 581850
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 581850
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 569531
+('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 590679
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 590679
+('DEROU', 'Z') ('ETUD', '2.0') ('GARL', '1.0') #SUP: 648424
+('GARL', '1.0') ('INFAM', '1.0') #SUP: 694608
+('GARL', '1.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('ANARR', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 628094
+('ANARR', 'Z') ('GARL', '1.0') ('INFAM', '1.0') #SUP: 628094
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') #SUP: 628094
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 628094
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 628094
+('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 616741
+('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 616741
+('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 628638
+('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 628638
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 628638
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 628638
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 616741
+('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 616741
+('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 639991
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 639991
+('DEROU', 'Z') ('GARL', '1.0') ('INFAM', '1.0') #SUP: 694608
+('GARL', '1.0') ('PNAI12', '1.0') #SUP: 751396
+('DEROU', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 751396
+('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 751396
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 751396
+('ANARR', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('PNAI12', '1.0') #SUP: 751396
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 751396
+('ANARR', 'Z') ('GARL', '1.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') #SUP: 751396
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 751396
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 751396
+('GARL', '1.0') ('NATC', '0.0') #SUP: 753201
+('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 738374
+('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 753201
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 753201
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 738374
+('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 738374
+('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('NATC', '0.0') #SUP: 753201
+('GARL', '1.0') ('INAT', '11.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') #SUP: 753201
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 753201
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 753201
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 738374
+('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('ANARR', 'Z') ('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 738374
+('GARL', '1.0') ('IMMI', '2.0') #SUP: 766223
+('DEROU', 'Z') ('GARL', '1.0') ('IMMI', '2.0') #SUP: 766223
+('DEROU', 'Z') ('GARL', '1.0') #SUP: 831209
+('ETUD', '2.0') #SUP: 931838
+('ETUD', '2.0') ('INFAM', '1.0') #SUP: 711351
+('ETUD', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ANARR', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 612502
+('ANARR', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') #SUP: 612502
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') #SUP: 612502
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 612502
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 612502
+('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 600618
+('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 600618
+('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 614156
+('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 614156
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 614156
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 614156
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 600618
+('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 600618
+('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 626040
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 626040
+('DEROU', 'Z') ('ETUD', '2.0') ('INFAM', '1.0') #SUP: 711351
+('ETUD', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('DEROU', 'Z') ('ETUD', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ETUD', '2.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ANARR', 'Z') ('ETUD', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 806444
+('ANARR', 'Z') ('ETUD', '2.0') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') #SUP: 806444
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') #SUP: 806444
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') #SUP: 806444
+('ETUD', '2.0') ('NATC', '0.0') #SUP: 810862
+('ETUD', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 792093
+('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 810862
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 810862
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 792093
+('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 792093
+('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('NATC', '0.0') #SUP: 810862
+('ETUD', '2.0') ('INAT', '11.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') #SUP: 810862
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 810862
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 810862
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 792093
+('ETUD', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ANARR', 'Z') ('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 792093
+('ETUD', '2.0') ('IMMI', '2.0') #SUP: 825213
+('DEROU', 'Z') ('ETUD', '2.0') ('IMMI', '2.0') #SUP: 825213
+('DEROU', 'Z') ('ETUD', '2.0') #SUP: 931838
+('INFAM', '1.0') #SUP: 959347
+('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 823076
+('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 823076
+('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('DEROU', 'Z') ('INFAM', '1.0') ('NATC', '0.0') #SUP: 840344
+('INAT', '11.0') ('INFAM', '1.0') #SUP: 840344
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 840344
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 840344
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 840344
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') #SUP: 823076
+('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 823076
+('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('DEROU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('ANARR', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') ('PNAI12', '1.0') #SUP: 844059
+('ANARR', 'Z') ('INFAM', '1.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('INFAM', '1.0') #SUP: 844059
+('ANARR', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 844059
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 844059
+('IMMI', '2.0') ('INFAM', '1.0') #SUP: 861327
+('DEROU', 'Z') ('IMMI', '2.0') ('INFAM', '1.0') #SUP: 861327
+('DEROU', 'Z') ('INFAM', '1.0') #SUP: 959347
+('NATC', '0.0') #SUP: 1069236
+('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 1046029
+('INAT', '11.0') ('NATC', '0.0') #SUP: 1069236
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1069236
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1069236
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1069236
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') #SUP: 1046029
+('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('NATC', '0.0') ('PNAI12', '1.0') #SUP: 1046029
+('IMMI', '2.0') ('NATC', '0.0') #SUP: 1069236
+('DEROU', 'Z') ('IMMI', '2.0') ('NATC', '0.0') #SUP: 1069236
+('DEROU', 'Z') ('NATC', '0.0') #SUP: 1069236
+('INAT', '11.0') #SUP: 1069236
+('DEROU', 'Z') ('INAT', '11.0') #SUP: 1069236
+('IMMI', '2.0') ('INAT', '11.0') #SUP: 1069236
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 1069236
+('ANARR', 'Z') ('INAT', '11.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') #SUP: 1046029
+('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('INAT', '11.0') ('PNAI12', '1.0') #SUP: 1046029
+('PNAI12', '1.0') #SUP: 1070144
+('DEROU', 'Z') ('PNAI12', '1.0') #SUP: 1070144
+('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 1070144
+('DEROU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 1070144
+('ANARR', 'Z') ('PNAI12', '1.0') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('PNAI12', '1.0') #SUP: 1070144
+('ANARR', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') ('PNAI12', '1.0') #SUP: 1070144
+('ANARR', 'Z') #SUP: 1070145
+('ANARR', 'Z') ('DEROU', 'Z') #SUP: 1070144
+('ANARR', 'Z') ('IMMI', '2.0') #SUP: 1070144
+('ANARR', 'Z') ('DEROU', 'Z') ('IMMI', '2.0') #SUP: 1070144
+('IMMI', '2.0') #SUP: 1093351
+('DEROU', 'Z') ('IMMI', '2.0') #SUP: 1093351
+('DEROU', 'Z') #SUP: 1218440
